@@ -19,7 +19,7 @@ Open the "Recommendations_with_IBM" .html or .ipynb file.
 
 * Numpy
 * Pandas
-* ;atplotlib
+* Matplotlib
 
 * Pickle
 
